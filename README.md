@@ -3,14 +3,31 @@ Um software com interface gráfica capaz de comprimir textos inseridos pelo usu�
 
 ![](preview/image.png)
 
+
 ## Pré-requisitos
 ```
 O código foi confeccionado usando a linguagem de programação Java. Para a interface gráfica foi usado o framework JavaFX, por isso é necesário importar a biblioteca "jfoenix-8.0.8.jar" para que não haja erros durante compilação.
 ```
 
+## Script de execução
+> Passo 1
+>> Executar uma IDE com suporte à linguagem de programação Java
+> Passo 2
+>> Importar o projeto
+>> Passo 3 (Facultativo)
+> Instalar o Scene Builder
+> Passo 3 (Facultativo)
+>> Configurar o Scene Builder como padrão para leitura de arquivos FXML na IDE
+>> (Eclipse Oxygen.3a Release (4.7.3a)) Window -> Preference -> JAvaFX -> Inserir o executável SceneBuilder
+> Passo 4 (Fundamenal)
+> Importar a biblioteca "jfoenix-8.0.8.jar"
+> Projeto -> Botão Direito -> Properties -> Java BuildPath -> Libraries -> Add ExternalArchives -> Selecionar .jar do "jfoenix-8.0.8.jar"
+
+
 ## Construído com
 * [Eclipse IDE](https://www.eclipse.org/) - A IDE utilizada.
 * [Scene Builder](https://gluonhq.com/products/scene-builder/) - Software usado para manipular os arquivos FXML da interface.
+
 
 ## Versões
 VERSÃO 1.0.0 [08/07/2019]
