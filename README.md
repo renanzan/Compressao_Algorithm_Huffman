@@ -22,7 +22,7 @@ O código foi confeccionado usando a linguagem de programação Java. Para a int
 > *Passo 4 (Facultativo)*
 >> Configurar o Scene Builder como padrão para leitura de arquivos FXML na IDE
 
->> *(Eclipse Oxygen.3a Release (4.7.3a))* Window -> Preference -> JAvaFX -> Inserir o executável SceneBuilder
+>> *(Eclipse Oxygen.3a Release (4.7.3a))* Window -> Preference -> JavaFX -> Inserir o executável SceneBuilder
 
 > ***Passo 5 (Fundamenal)***
 >> Importar a biblioteca "jfoenix-8.0.8.jar"
