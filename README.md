@@ -12,14 +12,18 @@ O código foi confeccionado usando a linguagem de programação Java. Para a int
 ## Script de execução
 > Passo 1
 >> Executar uma IDE com suporte à linguagem de programação Java
+
 > Passo 2
 >> Importar o projeto
+
 >> Passo 3 (Facultativo)
 > Instalar o Scene Builder
-> Passo 3 (Facultativo)
+
+> Passo 4 (Facultativo)
 >> Configurar o Scene Builder como padrão para leitura de arquivos FXML na IDE
 >> (Eclipse Oxygen.3a Release (4.7.3a)) Window -> Preference -> JAvaFX -> Inserir o executável SceneBuilder
-> Passo 4 (Fundamenal)
+
+> Passo 5 (Fundamenal)
 > Importar a biblioteca "jfoenix-8.0.8.jar"
 > Projeto -> Botão Direito -> Properties -> Java BuildPath -> Libraries -> Add ExternalArchives -> Selecionar .jar do "jfoenix-8.0.8.jar"
 
