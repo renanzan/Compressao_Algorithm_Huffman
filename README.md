@@ -25,3 +25,4 @@ VERSÃO 1.0.0 [08/07/2019]
 
 ## Autores
 * **Renan Zanoti** - *Trabalho de Algoritmo e Estrutura de Dados 2 (Sistemas de Informação, UFOP - ICEA)* - [renanzan](https://github.com/renanzan)
+* **Indianara  Santos** - *Trabalho de Algoritmo e Estrutura de Dados 2 (Sistemas de Informação, UFOP - ICEA)*
