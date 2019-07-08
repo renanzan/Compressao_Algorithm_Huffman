@@ -27,7 +27,7 @@ O código foi confeccionado usando a linguagem de programação Java. Para a int
 > ***Passo 5 (Fundamenal)***
 >> Importar a biblioteca "jfoenix-8.0.8.jar"
 
->> Projeto -> Botão Direito -> Properties -> Java BuildPath -> Libraries -> Add ExternalArchives -> Selecionar .jar do "jfoenix-8.0.8.jar"
+>> Projeto -> Botão Direito -> Properties -> Java BuildPath -> Libraries -> Add External JARs... -> Selecionar .jar do "jfoenix-8.0.8.jar"
 
 
 ## Construído com
