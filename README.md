@@ -1,5 +1,5 @@
 # Java_JavaFX_IG_Compressao_Algorithm_Huffman
-Um software com interface gráfica capaz de comprimir texto usando o algoritmo de Huffman e gerar um arquivo .dat e .txt para comparação de tamanho entre um arquivo de texto simples e o arquivo de texto comprimido.
+Um software com interface gráfica capaz de comprimir textos inseridos pelo usuário usando o algoritmo de Huffman, ao executar a compressão dois arquivos (.dat e .txt) são gerados no diretório a fim de comparação de tamanho entre um arquivo de texto simples e o arquivo de texto comprimido. Para simplificar, alguns dados relevantes para a comparação e identificação de resultados é exibida na própria interface gráfica.
 
 ![](preview/image.png)
 
